@@ -1,0 +1,28 @@
+Welcome to Hangman!
+_ _ _ _ _ _
+
+Guess a letter: p
+Good job! p is in the word.
+p _ _ _ _ _
+
+Guess a letter: z
+Wrong! z is not in the word. Attempts remaining: 5
+p _ _ _ _ _
+
+Guess a letter: o
+Good job! o is in the word.
+p _ o _ _ _
+
+Guess a letter: t
+Good job! t is in the word.
+p _ o t _ _
+
+Guess a letter: h
+Good job! h is in the word.
+p _ o t h _
+
+Guess a letter: n
+Good job! n is in the word.
+p y t h o n
+
+Congratulations! You've guessed the word: python
