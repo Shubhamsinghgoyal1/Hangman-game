@@ -1,28 +1,61 @@
-Welcome to Hangman!
-_ _ _ _ _ _
 
-Guess a letter: p
-Good job! p is in the word.
-p _ _ _ _ _
+Example of hangman Game
+CodeRunnerFile.py"
+_____
+Guess a Letter: a
+A____
+Guess a Letter: p
+APP__
+Guess a Letter: p
+APP__
+Guess a Letter: l
+APPL_
+Guess a Letter: e
+Congratulations you won!!!
+Game Over
+You Lost the Game
+All the chances are Over
+The Correct word is  APPLE
 
-Guess a letter: z
-Wrong! z is not in the word. Attempts remaining: 5
-p _ _ _ _ _
 
-Guess a letter: o
-Good job! o is in the word.
-p _ o _ _ _
+-->Another Example<--
 
-Guess a letter: t
-Good job! t is in the word.
-p _ o t _ _
-
-Guess a letter: h
-Good job! h is in the word.
-p _ o t h _
-
-Guess a letter: n
-Good job! n is in the word.
-p y t h o n
-
-Congratulations! You've guessed the word: python
+CodeRunnerFile.py"
+______
+Guess a Letter: o
+O_____
+Guess a Letter: a
+O_A___
+Guess a Letter: p
+Incorrect Guess
+the remaining chances are: 6
+O_A___
+Guess a Letter: p
+Incorrect Guess
+the remaining chances are: 5
+O_A___
+Guess a Letter: l
+Incorrect Guess
+the remaining chances are: 4
+O_A___
+Guess a Letter: e
+O_A__E
+Guess a Letter: d 
+Incorrect Guess
+the remaining chances are: 3
+O_A__E
+Guess a Letter: s
+Incorrect Guess
+the remaining chances are: 2
+O_A__E
+Guess a Letter: j
+Incorrect Guess
+the remaining chances are: 1
+O_A__E
+Guess a Letter: w
+Incorrect Guess
+the remaining chances are: 0
+Game Over
+You Lost the Game
+All the chances are Over
+The Correct word is  ORANGE
